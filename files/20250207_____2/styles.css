@@ -16,7 +16,7 @@
   position:absolute;
   z-index:0;
 }
-#u609_img {
+#u610_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -24,50 +24,13 @@
   width:353px;
   height:544px;
 }
-#u609 {
+#u610 {
   border-width:0px;
   position:absolute;
   left:263px;
   top:46px;
   width:353px;
   height:544px;
-  display:flex;
-}
-#u609 .text {
-  position:absolute;
-  align-self:center;
-  padding:2px 2px 2px 2px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u609_text {
-  border-width:0px;
-  word-wrap:break-word;
-  text-transform:none;
-  visibility:hidden;
-}
-#u610_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:79px;
-  height:33px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 1);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-}
-#u610 {
-  border-width:0px;
-  position:absolute;
-  left:298px;
-  top:100px;
-  width:79px;
-  height:33px;
   display:flex;
 }
 #u610 .text {
@@ -81,14 +44,15 @@
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
+  visibility:hidden;
 }
 #u611_div {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:87px;
-  height:26px;
+  width:79px;
+  height:33px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
   border:none;
@@ -101,9 +65,9 @@
   border-width:0px;
   position:absolute;
   left:298px;
-  top:232px;
-  width:87px;
-  height:26px;
+  top:100px;
+  width:79px;
+  height:33px;
   display:flex;
 }
 #u611 .text {
@@ -117,9 +81,45 @@
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
-  visibility:hidden;
 }
 #u612_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:87px;
+  height:26px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u612 {
+  border-width:0px;
+  position:absolute;
+  left:298px;
+  top:232px;
+  width:87px;
+  height:26px;
+  display:flex;
+}
+#u612 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u612_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u613_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -134,7 +134,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u612 {
+#u613 {
   border-width:0px;
   position:absolute;
   left:298px;
@@ -143,52 +143,16 @@
   height:33px;
   display:flex;
 }
-#u612 .text {
+#u613 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u612_text {
-  border-width:0px;
-  word-wrap:break-word;
-  text-transform:none;
-}
-#u613_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:71px;
-  height:20px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 0);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-}
-#u613 {
-  border-width:0px;
-  position:absolute;
-  left:637px;
-  top:108px;
-  width:71px;
-  height:20px;
-  display:flex;
-}
-#u613 .text {
-  position:absolute;
-  align-self:flex-start;
-  padding:0px 0px 0px 0px;
-  box-sizing:border-box;
-  width:100%;
-}
 #u613_text {
   border-width:0px;
-  white-space:nowrap;
+  word-wrap:break-word;
   text-transform:none;
 }
 #u614_div {
@@ -196,7 +160,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:43px;
+  width:71px;
   height:20px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -209,9 +173,9 @@
 #u614 {
   border-width:0px;
   position:absolute;
-  left:705px;
+  left:637px;
   top:108px;
-  width:43px;
+  width:71px;
   height:20px;
   display:flex;
 }
@@ -245,7 +209,7 @@
 #u615 {
   border-width:0px;
   position:absolute;
-  left:748px;
+  left:705px;
   top:108px;
   width:43px;
   height:20px;
@@ -281,7 +245,7 @@
 #u616 {
   border-width:0px;
   position:absolute;
-  left:793px;
+  left:748px;
   top:108px;
   width:43px;
   height:20px;
@@ -304,7 +268,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:29px;
+  width:43px;
   height:20px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -317,9 +281,9 @@
 #u617 {
   border-width:0px;
   position:absolute;
-  left:831px;
+  left:793px;
   top:108px;
-  width:29px;
+  width:43px;
   height:20px;
   display:flex;
 }
@@ -340,7 +304,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:233px;
+  width:29px;
   height:20px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -353,9 +317,9 @@
 #u618 {
   border-width:0px;
   position:absolute;
-  left:637px;
-  top:339px;
-  width:233px;
+  left:831px;
+  top:108px;
+  width:29px;
   height:20px;
   display:flex;
 }
@@ -376,6 +340,42 @@
   position:absolute;
   left:0px;
   top:0px;
+  width:233px;
+  height:20px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u619 {
+  border-width:0px;
+  position:absolute;
+  left:637px;
+  top:339px;
+  width:233px;
+  height:20px;
+  display:flex;
+}
+#u619 .text {
+  position:absolute;
+  align-self:flex-start;
+  padding:0px 0px 0px 0px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u619_text {
+  border-width:0px;
+  white-space:nowrap;
+  text-transform:none;
+}
+#u620_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
   width:200px;
   height:48px;
   background:inherit;
@@ -386,7 +386,7 @@
   -webkit-box-shadow:5px 5px 5px rgba(0, 0, 0, 0.2);
   box-shadow:5px 5px 5px rgba(0, 0, 0, 0.2);
 }
-#u619 {
+#u620 {
   border-width:0px;
   position:absolute;
   left:626px;
@@ -395,14 +395,14 @@
   height:48px;
   display:flex;
 }
-#u619 .text {
+#u620 .text {
   position:absolute;
   align-self:flex-start;
   padding:10px 10px 10px 10px;
   box-sizing:border-box;
   width:100%;
 }
-#u619_text {
+#u620_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
